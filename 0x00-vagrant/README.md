@@ -1,1 +1,1 @@
-0-hello_ubuntu - What does the command uname print when you run it without any option?
+0-hello_ubuntu - What the command uname prints when it is run without any option
